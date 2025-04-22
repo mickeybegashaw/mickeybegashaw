@@ -2,7 +2,7 @@
 <h1 align="center">consol.log("HELLO WORLD") <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mickeybegashaw&label=Profile%20views&color=0e75b6&style=flat" alt="mickeybegashaw" /> </p>
 
-<h4 style="font-size : 20px;">I'm Mikiyas Begashaw, a web developer with a passion for creating clean, functional, and user-friendly web experiences. Specializing in HTML, CSS, JavaScript, and React, Node , express, mongoDB I focus on building responsive, high-performance websites and applications that are intuitive and visually appealing. I enjoy solving complex challenges and ensuring that every project I work on not only meets technical requirements but also delivers a seamless user experience.
+<h4 style="font-size : 20px;">I'm Mikiyas Begashaw, a web developer with a passion for creating clean, functional, and user-friendly web experiences. Specializing in HTML, CSS, JavaScript, and React, Node , express, mongoDB and Next.js I focus on building responsive, high-performance websites and applications that are intuitive and visually appealing. I enjoy solving complex challenges and ensuring that every project I work on not only meets technical requirements but also delivers a seamless user experience.
 
  </h4>
 <br>
