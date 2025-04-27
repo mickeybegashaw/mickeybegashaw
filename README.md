@@ -46,7 +46,7 @@
  
 ## Contact Me  🚀 ,
 
-🌟 I'm always open to collaboration and Work  on exciting projects and ideas. If you share similar interests or have a project you'd like to work on, feel free to reach out on call +251979076934 or the socials below!
+🌟 I'm always open to collaboration and Work  on exciting projects and ideas. If you share similar interests or have a project you'd like to work on, feel free to reach out on call +251979076934 or the social below!
 
 <div>
   
